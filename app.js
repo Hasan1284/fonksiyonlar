@@ -30,3 +30,6 @@ function EmekliligeKacYilKaldi(dogumYili,isim){
 EmekliligeKacYilKaldi(2012,'ada');
 EmekliligeKacYilKaldi(2010,'yigit');
 EmekliligeKacYilKaldi(1950,'cınar');
+//burada fonksiyonlar konusuna giriş yapıldı
+
+/// deneme
